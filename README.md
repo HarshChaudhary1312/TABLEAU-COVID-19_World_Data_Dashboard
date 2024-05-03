@@ -1,5 +1,5 @@
 # COVID-19 World Data Analysis (January 2020 - June 2020)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr7t249XM4H3jQ-rPsHZRXk799_aJIt_4GvA&usqp=CAU" height="180">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr7t249XM4H3jQ-rPsHZRXk799_aJIt_4GvA&usqp=CAU" height="400">
 ## Overview
 This Tableau project provides an in-depth analysis of COVID-19 data worldwide from January 2020 to June 2020. Through interactive visualizations, it aims to explore key trends, patterns, and insights related to the spread and impact of the pandemic during this period.
 
